@@ -3,7 +3,7 @@ OFCTv2 스킨은 OFCT 방송과 제작자 yhsphd의 개인적 사용을 위해 �
 · 그림
 을 제외한 파일은 제가 제작하였고, 자유롭게 사용하실 수 있습니다.
 자유로운 변형도 가능하며, 배포도 가능하나 배포 시 GitHub 리포지토리 주소
-https://github.com/yhsphd/OFCTv2 를 표키해주세요!
+https://github.com/yhsphd/OFCTv2 를 표기해주세요!
 
 GitHub에서 리포지토리 전체를 다운로드하면
 스프라이트 생성에 사용된 psd(포토샵), aep(애프터 이펙트) 프로젝트 파일을 함께 받을 수 있습니다.
